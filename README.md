@@ -12,8 +12,6 @@ The purpose of this analysis is to view the data trends for the Citibike program
 
 3) Starting Locations correlate to population density.
 
-## Summary:
-We can conclude with this study that the most significant times and locations to provide bikes are rush hour business and tourist areas.
 
 Top Starting Locations for Citibikes
 ![This is an image](images/1-TopStartingLocations.png)
@@ -35,12 +33,15 @@ Usage split by Subscribers and Customers
 Trip Duration
 ![This is an image](images/6-TripDuration.png)
 
-Another takeaway is that we need to research more into why women do not use the program as much as men. Are there any problems that we can address from the beginning to make this service more attractive to women?
-
 Trip Duration By Gender
 ![This is an image](images/7-TripDurationByGender.png)
 
+## Summary:
+We can conclude with this study that the most significant times and locations to provide bikes are rush hour business and tourist areas.
+
 One additional visualization that I would perform would be adding a "subscriber / customer" layer to the trip durations. This would let us see how to target our marketting. (Are subsribers taking shorter trips, and are tourists and visitors taking more leisurely long trips?)
+
+Another takeaway is that we need to research more into why women do not use the program as much as men. Are there any problems that we can address from the beginning to make this service more attractive to women?
 
 Another additional visualization I would perform would be adding a "subscriber / customer" layer to the starting locations map. Is there any geographical difference between the subscriber and customer? This may help us in determining where our advertising targets are put up around the city.
 
